@@ -3,6 +3,8 @@
 ## Overview
 This project implements a simplified version of **Shamir's Secret Sharing Algorithm**, where we determine the constant term `c` of an unknown polynomial based on given roots. The roots are provided in a JSON file, with values encoded in different bases.
 Please check the PDF below for the working of test case 1:
+
+
 <img width="479" alt="Screenshot 2025-02-14 at 12 03 34 PM" src="https://github.com/user-attachments/assets/aa0ca6c9-dc3a-4a9f-9c5c-6ea56d0abe6c" />
 
 We solve the polynomial using two different numerical methods:
